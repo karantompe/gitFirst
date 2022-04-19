@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstNmae": "Karan",
+      "lastName": "Patil",
+      "age": 5,
+      "city": "Pune",
+      "email": "karan@gmail.com",
+      "mobile": "9049554549"
+    }
+  ]
+}
